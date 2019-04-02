@@ -1,0 +1,3 @@
+rootProject.name = 'realm_sync_todo'
+
+include ':app'
